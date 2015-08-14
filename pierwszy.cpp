@@ -22,7 +22,7 @@ return 0;
 
 float sqrt(int i)
 {
-	return i*i;
+return i*i;
 }
 
 
